@@ -1,0 +1,15 @@
+body {
+  background-color: antiquewhite;
+}
+
+h1,
+p, footer{
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: brown;
+  font-weight: 600;
+  text-decoration: none;
+}
